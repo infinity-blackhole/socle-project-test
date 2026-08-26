@@ -2,4 +2,4 @@ image:
   repository: harbor.dso.cpin-hp.numerique-interieur.fr/wphtest001/java-demo
 
 ingress:
-  host: socle-project-test.app.cpin-hp.numerique-interieur.fr
+  host: wphsocleprojecttest.app.cpin-hp.numerique-interieur.fr
